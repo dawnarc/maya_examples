@@ -12,3 +12,14 @@ Version: Maya 2025.3
 A simple skinned body mechanics rig asset, for rapid rig prototyping.  
 ![screenshoots01](./Bony_Skinned/Bony_Skinned_Preview.gif)  
 Version: Maya 2025.3
+
+## Leg_Rig
+
+A simple leg Rigging example. Included features:
++ Heel and Ball joint IK;
++ Foot Tilt In and Tilt Out;
++ Ball Swivel;
++ Toe Up and Down;
+
+![screenshoots01](./Leg_Rig/Leg_Rig_Preview.png) 
+Version: Maya 2025.3
