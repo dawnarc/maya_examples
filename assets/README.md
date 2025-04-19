@@ -10,7 +10,7 @@ Version: Maya 2025.3
 ## UE5_RIG_Leg_IK_Upgraded
 
 Rig asset for advanced leg IK rigging. For more details, see: [[Maya]Rigging 16 - Ankles & Heels](https://dawnarc.com/2025/03/mayarigging-16-ankles-heels/).  
-![screenshoots01](./UE5_RIG_Leg_IK_Upgraded.gif)  
+![screenshoots01](./UE5_Rig/UE5_RIG_in_Maya.gif)  
 Version: Maya 2025.3
 
 ## Bony_Skinned
@@ -29,5 +29,5 @@ A simple leg Rigging example. Included features:
 
 For more details, see: [Leg Rigging Sample](https://dawnarc.com/2025/03/mayarigging-16-ankles-heels//#leg-rigging-sample)
 
-![screenshoots01](./Leg_Rig/Leg_Rig.png) 
+![screenshoots01](./Leg_Rig/Leg_Rig.gif) 
 Version: Maya 2025.3
